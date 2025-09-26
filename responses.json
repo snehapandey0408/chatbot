@@ -1,0 +1,36 @@
+{
+  "depression": [
+    "Depression is a common mental health disorder. It's important to speak to a mental health professional if you're feeling persistently low.",
+    "Learn more about depression here: https://www.who.int/news-room/fact-sheets/detail/depression",
+    "If you're struggling with depression, please reach out to a helpline."
+  ],
+  "anxiety": [
+    "Anxiety is a normal emotion, but excessive anxiety can interfere with daily life.",
+    "Learn more about anxiety here: https://adaa.org/understanding-anxiety",
+    "Breathing exercises and mindfulness can help manage anxiety symptoms."
+  ],
+  "stress": [
+    "Stress can affect both your mind and body. Healthy coping strategies include exercise, meditation, and talking to someone you trust.",
+    "More on stress: https://www.apa.org/topics/stress",
+    "Identify stress triggers and practice relaxation techniques."
+  ],
+  "sleep": [
+    "Sleep is crucial for mental health. Adults should aim for 7–9 hours per night.",
+    "Learn more about sleep hygiene: https://www.sleepfoundation.org",
+    "Try to maintain a regular sleep schedule and avoid screens before bed."
+  ],
+  "therapy": [
+    "Therapy can be very effective for managing mental health issues.",
+    "Find a therapist here: https://www.psychologytoday.com/us/therapists",
+    "There are many types of therapy, including CBT, DBT, and mindfulness-based therapy."
+  ],
+  "hello": [
+    "Hello! How are you feeling today?",
+    "Hi there! I'm here to help you learn about mental health."
+  ],
+  "bye": [
+    "Take care! Remember, your mental health matters.",
+    "Goodbye! Stay well.",
+    "See you soon!"
+  ]
+}
